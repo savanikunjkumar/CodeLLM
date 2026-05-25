@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Static Analysis + ML + LLM Repair<br/>= The Future of Code Quality 🔥
+#  Static Analysis + ML + LLM Repair<br/>= The Future of Code Quality 🔥
 
 ### *Explainable findings · Prioritized hotspots · Validated patch candidates*
 
